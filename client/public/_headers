@@ -1,0 +1,14 @@
+/* 
+  
+  Access-Control-Allow-Origin: https://react-nodejs-illumin8.herokuapp.com
+  Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+  Access-Control-Allow-Methods: GET
+  Access-Control-Allow-Methods: POST
+  Access-Control-Allow-Methods: PUT
+  Access-Control-Allow-Methods: OPTIONS
+  Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+  Access-Control-Allow-Headers: Origin
+  Access-Control-Allow-Headers: X-Requested-With
+  Access-Control-Allow-Headers: Content-Type
+  Access-Control-Allow-Headers: Accept
+  Access-Control-Allow-Credentials: true

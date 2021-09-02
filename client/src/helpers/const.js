@@ -1,0 +1,1 @@
+export const baseUrl = process.env.NODE_ENV === 'development' ? 'http://localhost:3001/' : 'https://react-nodejs-illumin8.herokuapp.com/';

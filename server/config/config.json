@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "admin",
+    "database": "illumin8-react",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "bf104dcf2e8344",
+    "password": "5a5548aa",
+    "database": "heroku_328c9ca1594416a",
+    "host": "us-cdbr-east-04.cleardb.com",
+    "dialect": "mysql"
+  }
+}
