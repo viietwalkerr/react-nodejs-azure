@@ -3,5 +3,9 @@
         "origin",
         "upstream",
         "react-nodejs-express-mysql"
+    ],
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
     ]
 }
