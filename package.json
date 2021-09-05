@@ -1,0 +1,26 @@
+{
+  "name": "illumin8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.5",
+    "sequelize-cli": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viietwalkerr/react-nodejs-azure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viietwalkerr/react-nodejs-azure/issues"
+  },
+  "homepage": "https://github.com/viietwalkerr/react-nodejs-azure#readme"
+}

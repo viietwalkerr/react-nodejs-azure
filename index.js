@@ -8,6 +8,6 @@ index: 'index.html'
 
 };
 
-server.use('/', express.static('/home/site/wwwroot/client/build', options));
+server.use('/', express.static('/home/site/wwwroot', options));
 
 server.listen(process.env.PORT);
