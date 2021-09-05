@@ -1,5 +1,5 @@
 # Node.js with React
-- task: PublishBuildArtifacts@1
+task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'drop'
